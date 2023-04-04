@@ -3,6 +3,7 @@
 namespace rocketfellows\SKVatFormatValidator\tests\unit;
 
 use PHPUnit\Framework\TestCase;
+use rocketfellows\SKVatFormatValidator\SKVatFormatValidator;
 
 class SKVatFormatValidatorTest extends TestCase
 {
